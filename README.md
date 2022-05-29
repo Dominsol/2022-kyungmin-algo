@@ -5,6 +5,6 @@
 | 주차/날짜 | 단원 | 링크 | 내용 |
 |:----------:|:----------|:----------|:----------|
 | 1주차 <br/>(5/16 ~ 5/22)| 그리디 | <li>https://www.acmicpc.net/problem/1026</li><li>https://www.acmicpc.net/problem/1541</li> | <li>보물</li> <li>잃어버린 괄호</li>|
-| 2주차 <br/>(5/23 ~ 5/29)| 구현 <br/>https://www.acmicpc.net/workbook/view/1999 | <li>https://www.acmicpc.net/problem/9579</li><li>https://www.acmicpc.net/problem/10591</li> | <li>ASCII Puzzle</li> <li>Cactus Generator</li> |
+| 2주차 <br/>(5/23 ~ 5/29)| 구현 <br/>https://www.acmicpc.net/problem/2750 | <li>https://www.acmicpc.net/problem/9579</li><li>https://www.acmicpc.net/problem/10591</li> | <li>수 정렬하기</li> <li>Cactus Generator</li> |
 | 3주차 <br/>(5/30 ~ 6/05)|   | <li></li><li></li> <li></li> | <li></li> <li></li> <li></li> |
 
